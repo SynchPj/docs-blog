@@ -1,1 +1,1 @@
-[linux]{./docs/test.md}
+[linux](./docs/test.md)
